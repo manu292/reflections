@@ -1,0 +1,5 @@
+With diff I can:
+- view the differences between two files
+- without running through the whole file
+
+blublub
